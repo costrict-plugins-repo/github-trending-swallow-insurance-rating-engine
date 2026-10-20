@@ -1,0 +1,14 @@
+{
+  "name": "swallow-pricing-engine",
+  "version": "1.0.0",
+  "description": "Build, validate, analyse, and test insurance pricing models with the Swallow Pricing Engine via MCP",
+  "author": {
+    "name": "Llow Group",
+    "email": "dev@llow.io",
+    "url": "https://swallow.app"
+  },
+  "homepage": "https://swallow.app",
+  "repository": "https://github.com/llow-group/swallow-claude-plugin",
+  "license": "MIT",
+  "keywords": ["insurance", "pricing", "actuarial", "mcp", "swallow"]
+}
